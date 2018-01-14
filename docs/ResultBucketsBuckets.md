@@ -1,0 +1,11 @@
+# Alfresco::ResultBucketsBuckets
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**label** | **String** | The bucket label | [optional] 
+**filter_query** | **String** | The filter query you can use to apply this facet | [optional] 
+**count** | **Integer** | The count for the bucket | [optional] 
+**display** | **Object** | An optional field for additional display information | [optional] 
+
+
